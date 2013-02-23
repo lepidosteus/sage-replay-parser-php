@@ -1,5 +1,5 @@
-sage-replay-parser
-==================
+sage-replay-parser-php
+======================
 
 A collection of PHP classes to parse replay files from games using the SAGE engine (CnC 3, Red Alert 3, ...)
 
